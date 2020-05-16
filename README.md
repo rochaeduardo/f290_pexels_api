@@ -8,4 +8,3 @@
 
 - [x] Consome a API de imagens do site pexels
 
-![alt text](https://github.com/rochaeduardo/AppPexels/blob/master/AppPexels.png)
