@@ -1,16 +1,11 @@
-# f290_pexels_api
+# App Pexels
 
-A new Flutter project.
+## Consumindo API do site [PEXELS](https://www.pexels.com/)
 
-## Getting Started
+### O projeto foi desenvolvido em aula pela disciplina Desenvolvimento para Dispositivos Móveis ||
 
-This project is a starting point for a Flutter application.
+#### O que a aplicação faz?
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Consome a API de imagens do site pexels
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/rochaeduardo/AppPexels/blob/master/AppPexels.png)
